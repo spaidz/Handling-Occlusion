@@ -1,0 +1,8 @@
+# Ignore dataset folder
+dataset/
+
+# Ignore AAI-CW folder
+AAI-CW/
+
+# Ignore files with .keras extension
+*.keras
